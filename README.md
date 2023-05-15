@@ -35,6 +35,7 @@ $$
 \ddot{\phi}_K+(k^2+m^2_\phi)\phi_K-\frac{h_0}{2}k^2_\epsilon\cos\omega t\cdot[\phi_{K-P}+\phi_{K+P}]=0
 $$
 
+
 $$
 \begin{array}{l}
 k^2_\epsilon=\epsilon_{ij}k_ik_j \\
