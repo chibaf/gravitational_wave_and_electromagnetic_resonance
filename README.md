@@ -1,5 +1,10 @@
 # gravitational_wave_and_electromagnetic_resonance
-gravitational_wave_and_electromagnetic_resonance
+
+重力が光に変わることがあるという驚くべき研究結果が報告される - GIGAZINE 2023年04月18日
+
+https://gigazine.net/news/20230418-gravity-create-light/
+
+記事で引用してる論文
 
 Graviton to photon conversion via parametric resonance - ScienceDirect 
 
